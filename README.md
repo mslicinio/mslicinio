@@ -12,7 +12,8 @@ Atualmente em transição para **Business Intelligence & Data Science** com foco
 2. **Ingressar no mercado de BI & Data Science, iniciando um novo ciclo de evolução profissional.**
 
 ## <img src="assets\images\file.webp" width="40px">   Portfólio  
-- [***Power BI***](https://github.com/mslicinio/PowerBI_DSA) → Dashboards interativos
+- [***Microsoft Power BI Para Business Intelligence e Data Science***](https://github.com/mslicinio/PowerBI_DSA) → Microsoft Power BI com técnicas de Data Science e integrando o Power BI com Linguagem R e Python.
+- [***Aceleração: AI Reports com Excel, GPT Agents e Claude Code***](https://github.com/mslicinio/dashboard_porsche_sales) → Excel 365 com Inteligência Artificial aplicada a dados
 
     (em breve: projetos em Python, SQL e R)
 
