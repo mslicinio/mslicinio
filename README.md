@@ -66,15 +66,17 @@ Atualmente em transição para **Business Intelligence & Data Science** com foco
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 
 ---
-<details open> <summary> 👻 🟡 👾 Pacman Contrib Graph 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blank">Official REPO</summary></br>
+<details closed> <summary> 👻 🟡 👾 Pacman Contrib Graph 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blank">Official REPO</summary></br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzam/maurodesouzam/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzam/maurodesouzam/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzam/maurodesouzam/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzam/mslicinio/mslicinio/pacman-contribution-graph.svg">
 </picture>
 
 ###
-
+<details open>
+<summary> 💣 bomberman Contrib Graph 💣 <a href="https://github.com/Platane/snk" target="_blank">Official REPO</summary></br>
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/bomberman-contribution-graph.svg">
