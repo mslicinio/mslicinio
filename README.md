@@ -69,9 +69,10 @@ Atualmente em transição para **Business Intelligence & Data Science** com foco
 <details closed> <summary> 👻 🟡 👾 Pacman Contrib Graph 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blank">Official REPO</summary></br>
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/output/pacman-contribution-graph-dark.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mslicinio/mslicinio/output/pacman-contribution-graph.svg">
-</picture></p>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzam/mslicinio/mslicinio/pacman-contribution-graph.svg">
+</picture>
 </details>
 
 <details open>
