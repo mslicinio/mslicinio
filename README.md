@@ -1,6 +1,7 @@
 ## <img src="assets\images\ola.png" width="45px"> Olá, Seja bem-vindo(a)! 
 
 ## <img src="assets\icons\github.svg" width="65px"> <img src="assets\icons\python.svg" width="65px"> <img src="assets\icons\mysql.svg" width="65px">
+<img src="https://img.shields.io/github/followers/mslicinio?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge Followers conunter" width="130"  align="right" /></a>
 
 ## <img src="assets\images\sobre.png" width="45px"> Sobre mim   
 Profissional com **+20 anos de experiência em TI**,atuando de técnico a gerente.*  
@@ -65,13 +66,28 @@ Atualmente em transição para **Business Intelligence & Data Science** com foco
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 
 ---
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mslicinio&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
+<details open> <summary> 👻 🟡 👾 Pacman Contrib Graph 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blank">Official REPO</summary></br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzam/maurodesouzam/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzam/maurodesouzam/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzam/maurodesouzam/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/bomberman-contribution-graph.svg">
+</picture>
+
+###
 
 --- 
 
 ### <img src="assets\images\correio.png" width="25px"> Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-licinio--gti-blue?logo=linkedin)](https://www.linkedin.com/in/licinio-gti/)  
-[![Email](https://img.shields.io/badge/Email-lribeiro2012@gmail.com-red?logo=gmail)](mailto:lribeiro2012@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/licinio-gti/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:lribeiro2012@gmail.com)  
 
 
 ---
