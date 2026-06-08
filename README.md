@@ -77,25 +77,31 @@
 </div>
 
 ### <img src="assets\images\bi.webp" width="25px"> Business Intelligence & Data Science
-<img src="assets/icons/pi.svg" height="25" alt="excel" />
-<img src="assets/icons/python1.svg" height="25" alt="Python" />
-<img src="assets/icons/pandas.svg" height="25" alt="Pandas" />
-<img src="assets/icons/sql.svg" height="25" alt="sql" />
+<div style="display:flex; gap:10px; align-items:center;">
+  <img src="assets/icons/pi.svg" height="25" alt="excel" />
+  <img src="assets/icons/python1.svg" height="25" alt="Python" />
+  <img src="assets/icons/pandas.svg" height="25" alt="Pandas" />
+  <img src="assets/icons/sql.svg" height="25" alt="sql" />
+</div>
 
 ### <img src="assets\images\infra.webp" width="25px"> Infraestrutura & Sistemas
-<img src="assets/icons/linux.svg" height="25" alt="linux" />
+<div style="display:flex; gap:10px; align-items:center;">
+<img src="assets/icons/linux.svg" height="25" alt="linux" /> 
 <img src="assets/icons/windows.svg" height="25" alt="windows" />
 <img src="assets/icons/veeam.svg" height="25" alt="veeam" />
 <img src="assets/icons/psense.png" height="25" alt="pfsenselinux" />
 <img src="assets/icons/rasp.svg" height="25" alt="raspberry" />
+</div>
  
 ### <img src="assets\images\gestao.webp" width="25px"> Gestão & Metodologias
+<div style="display:flex; gap:10px; align-items:center;">
 <img src="assets/icons/pmbok.png" height="30" alt="pmbok" />
 <img src="assets/icons/scrum.png" height="30" alt="scrum" />
 <img src="assets/icons/itil.png" height="30" alt="itil" />
 <img src="assets/icons/kabam.png" height="30" alt="kabam" />
 <img src="assets/icons/project.png" height="30" alt="project" />
 <img src="assets/icons/5w2h.png" height="30" alt="5w2h" />
+</div>
 
 ---
 <details open> <summary> 👻 🟡 👾 Pacman Contrib Graph 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blank">Official REPO</summary></br>
