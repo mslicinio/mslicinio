@@ -4,25 +4,25 @@
 
   **Transformando dados em decisões inteligentes**
   
-  ## <img src="assets\icons\github.svg" width="65px"> <img src="assets\icons\python.svg" width="65px"> <img src="assets\icons\mysql.svg" width="65px">
+  ## <img src="assets/icons/github.svg" width="65px"> <img src="assets/icons/python.svg" width="65px"> <img src="assets/icons/mysql.svg" width="65px">
 </div>
 
 <img src="https://img.shields.io/github/followers/mslicinio?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge Followers conunter" width="130"  align="right" /></a>
 
 <div align="center">
 
-  ## <img src="assets\images\sobre.png" width="45px"> Sobre mim
+  ## <img src="assets/images/sobre.png" width="45px"> Sobre mim
   
 </div>
 
-  Profissional com **+20 anos de experiência em TI**,atuando de técnico a gerente.*  
+  Profissional com **+20 anos de experiência em TI**, atuando de técnico a gerente.  
   Atualmente em transição para **Business Intelligence & Data Science** com foco em **Power BI, Python, R e SQL**  
-<img src="assets\images\pushpin.png" width="15px"> Perfil completo no  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/licinio-gti/)  
+<img src="assets/images/pushpin.png" width="15px"> Perfil completo no  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/licinio-gti/)  
 
 
 <div align="center">
   
-  ## <img src="assets\images\alvo.png" width="40px"> Objetivo 
+  ## <img src="assets/images/alvo.png" width="40px"> Objetivo 
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  ## <img src="assets\images\file.webp" width="40px">   Portfólio
+  ## <img src="assets/images/file.webp" width="40px">   Portfólio
   </div>
 
 ###### Clique para ver o submenu
@@ -40,7 +40,7 @@
 <summary><strong> Power BI </strong></summary>
 
 - [Microsoft Power BI Para Business Intelligence e Data Science](https://github.com/mslicinio/PowerBI_DSA) → Microsoft Power BI com técnicas de Data Science e integrando o Power BI com Linguagem R e Python.
-- [Primeiros Passos em Power BI](https://github.com/mslicinio/dashboard_porsche_sales) → organize, explore e visualize dados reais usando Pandas.
+- [Santander Bootcamp: Primeiros Passos em Power BI](https://github.com/mslicinio/Bootcamp-Universia---Primeiros-Passos-em-Power-BI) → Fundamentos de Power BI, modelagem e visualização de dados.
 
 </details>
 
@@ -57,26 +57,32 @@
 - [Excel com IA e Claude](https://github.com/mslicinio/dashboard_porsche_sales) → Excel 365, Power Query, Microsoft Copilot e agentes de IA com projetos reais, mentorias ao vivo e certificado.
 </details>
 
+<details>
+<summary><strong> IA & Análise de Dados </strong></summary>
+
+- [NotebookLM para Análise de Dados](https://github.com/mslicinio/NotebookLM_DA) → Aplicação de Inteligência Artificial para pesquisa avançada, síntese de documentos e geração de insights em Data Analytics.
+</details>
+
     (em breve: projetos em Python, SQL e R)
 
 ---
-## <img src="assets\images\calendar.webp" width="40px"> Cursos na Fila
+## <img src="assets/images/calendar.webp" width="40px"> Cursos na Fila
 
 | Curso | Status | Previsão |
 | :--- | :--- | :--- |
 | **Santander Excel com IA e Claude**| ⏸️ Em Espera | Junho 2026 |
 | **SQL** | ⏸️ Em Espera | Segundo Semestre |
 | **Excel**| ⏳ Programado | A definir |
-| **Universia - Primeiros Passos em Power BI**| Cursando| 
-| **Power BI Para Business Intelligence e Data Science**|Cusando
+| **Universia - Primeiros Passos em Power BI**| Cursando | 
+| **Power BI Para Business Intelligence & Data Science**| Cursando |
 ---
 
 <div align="center">
 
-## <img src="assets\images\tecnologia.png" width="40px">  Tecnologias
+## <img src="assets/images/tecnologia.png" width="40px">  Tecnologias
 </div>
 
-### <img src="assets\images\bi.webp" width="25px"> Business Intelligence & Data Science
+### <img src="assets/images/bi.webp" width="25px"> Business Intelligence & Data Science
 <div style="display:flex; gap:10px; align-items:center;">
   <img src="assets/icons/pi.svg" height="25" alt="excel" />
   <img src="assets/icons/python1.svg" height="25" alt="Python" />
@@ -84,7 +90,7 @@
   <img src="assets/icons/sql.svg" height="25" alt="sql" />
 </div>
 
-### <img src="assets\images\infra.webp" width="25px"> Infraestrutura & Sistemas
+### <img src="assets/images/infra.webp" width="25px"> Infraestrutura & Sistemas
 <div style="display:flex; gap:10px; align-items:center;">
 <img src="assets/icons/linux.svg" height="25" alt="linux" /> 
 <img src="assets/icons/windows.svg" height="25" alt="windows" />
@@ -93,7 +99,7 @@
 <img src="assets/icons/rasp.svg" height="25" alt="raspberry" />
 </div>
  
-### <img src="assets\images\gestao.webp" width="25px"> Gestão & Metodologias
+### <img src="assets/images/gestao.webp" width="25px"> Gestão & Metodologias
 <div style="display:flex; gap:10px; align-items:center;">
 <img src="assets/icons/pmbok.png" height="30" alt="pmbok" />
 <img src="assets/icons/scrum.png" height="30" alt="scrum" />
@@ -109,13 +115,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzam/mslicinio/mslicinio/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mslicinio/mslicinio/pacman-output/pacman-contribution-graph.svg">
 </picture>
 </details>
 
 --- 
 
-### <img src="assets\images\correio.png" width="25px"> Contato  
+### <img src="assets/images/correio.png" width="25px"> Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/licinio-gti/)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:lribeiro2012@gmail.com)  
 
